@@ -1,0 +1,8 @@
+print('Hello...')
+print("Hi...")
+print(2135413)
+print(34135.12)
+print(True)
+print(False)
+print(153+546)
+print('AAA\nBBB\t\tCCC\nDEF\b\"XYZ\"')
